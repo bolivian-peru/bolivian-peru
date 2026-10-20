@@ -2,16 +2,16 @@
 
 hi. i'm peruvian.
 
-i build the boring, load-bearing parts that ai agents need to do real work on the real internet: an ip address that looks like a person on a phone, a server they can run without ssh, and a way to pay for both without a credit card or a sales call.
+i point fleets of agents at the boring, load-bearing parts that ai agents need to do real work on the real internet: an ip address that looks like a person on a phone, a server they can run without ssh, and a way to pay for both without a credit card or a sales call.
 
 most of it started as an afternoon with claude code and a strong opinion. some of it turned into companies.
 
 <img src="assets/now.gif" width="100%" alt="~/now">
 
 ```text
-role        founder / builder, mostly at the terminal
+role        master ai-agent controller. agents write the code, i decide what ships
 working on  proxies agents can rent by the gigabyte · an os you talk to · ai for old-school companies
-stack       typescript · rust · nix · next.js · postgres · solana · a bit of kotlin
+stack       all of it. whatever the job needs, the agents write it; rust to kotlin, nix to solana
 believes    if a number can't be traced to a source, it doesn't ship
 ```
 
