@@ -42,6 +42,7 @@ believes    if a number can't be traced to a source, it doesn't ship
 <img src="assets/side.gif" width="100%" alt="~/side-quests">
 
 - **[`vilnius-3d-game`](https://github.com/bolivian-peru/vilnius-3d-game)**: the real city of vilnius at 1:1 in the browser. streamed photomesh, every osm street drivable, a car with actual tyre physics. heading somewhere vice-city-shaped.
+- **[wizarscape](https://game.wizardwifhat.com)** (beta): an old-school wizard mmo that runs in thy browser, phone included. six elemental classes, duels, rune crafting, rare drops, gear to +10. no download.
 - **[fermos.lt](https://fermos.lt)**: a registry of lithuanian farms, matched to the eu subsidy calls they can actually apply for.
 - **[`openclaw-oauth-runtime-restore`](https://github.com/bolivian-peru/openclaw-oauth-runtime-restore)**: proof that your software moat is someone's afternoon claude code session.
 
