@@ -1,4 +1,4 @@
-<img src="assets/header.gif" width="100%" alt="bolivian-peru: rails for ai agents">
+<img src="assets/header-compact.gif" width="100%" alt="bolivian-peru: rails for ai agents">
 
 master ai-agent controller. agents write the code, in whatever stack the job needs; i decide what ships.
 
