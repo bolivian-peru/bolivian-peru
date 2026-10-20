@@ -72,7 +72,7 @@ def header(im,ph):
     # blinking caret (meaningful-ish: "still typing")
     if ph<0.5:
         d.rectangle([68+font(MONO,24).getlength('builds rails for ai agents — proxies, servers, payments.')+6,188,68+font(MONO,24).getlength('builds rails for ai agents — proxies, servers, payments.')+18,214],fill=(240,164,92,255))
-    d.text((68,236),'vilnius · lowercase since forever',font=font(MONO,18),fill=(246,236,216,150))
+    d.text((68,236),'ships small, ships often · lowercase since forever',font=font(MONO,18),fill=(246,236,216,150))
 
 def divider_label(label):
     def fn(im,ph):
