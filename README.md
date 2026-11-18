@@ -7,7 +7,7 @@ master ai-agent controller. agents write the code, in whatever stack the job nee
 <br>
 
 - [**os-moda**](https://github.com/bolivian-peru/os-moda): an os for ai agents on nixos. talk to your server, every change rolls back
-- [**proxies-sx-mcp-server**](https://github.com/bolivian-peru/proxies-sx-mcp-server): 70 mcp tools to buy, rotate and route [proxies.sx](https://proxies.sx) proxies
+- [**proxies-sx-mcp-server**](https://github.com/bolivian-peru/proxies-sx-mcp-server): MCP tools to check stock, manage and rotate [proxies.sx](https://proxies.sx) proxies
 - [**proxy-reseller-kit**](https://github.com/bolivian-peru/proxy-reseller-kit): a branded proxy business in an afternoon
 - [**marketplace-service-template**](https://github.com/bolivian-peru/marketplace-service-template): sell an api to agents for usdc
 - [**coronium-ai**](https://github.com/bolivian-peru/coronium-ai): sdk + cli for [coronium.io](https://coronium.io) 4g/5g proxies
