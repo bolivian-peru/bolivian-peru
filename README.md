@@ -10,7 +10,6 @@ master ai-agent controller. agents write the code, in whatever stack the job nee
 - [**proxies-sx-mcp-server**](https://github.com/bolivian-peru/proxies-sx-mcp-server): MCP tools to check stock, manage and rotate [proxies.sx](https://proxies.sx) proxies
 - [**proxy-reseller-kit**](https://github.com/bolivian-peru/proxy-reseller-kit): a branded proxy business in an afternoon
 - [**marketplace-service-template**](https://github.com/bolivian-peru/marketplace-service-template): sell an api to agents for usdc
-- [**coronium-ai**](https://github.com/bolivian-peru/coronium-ai): sdk + cli for [coronium.io](https://coronium.io) 4g/5g proxies
 - [**android-peer-sdk**](https://github.com/bolivian-peru/android-peer-sdk): share a phone's spare bandwidth, earn usdc
 - [**x402-sdk**](https://github.com/bolivian-peru/x402-sdk): micropayments on base and solana
 - [**baozi-mcp**](https://github.com/bolivian-peru/baozi-mcp): 68 tools for [baozi.bet](https://baozi.bet) prediction markets
