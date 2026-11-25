@@ -11,7 +11,7 @@ master ai-agent controller. agents write the code, in whatever stack the job nee
 - [**proxy-reseller-kit**](https://github.com/bolivian-peru/proxy-reseller-kit): a branded proxy business in an afternoon
 - [**marketplace-service-template**](https://github.com/bolivian-peru/marketplace-service-template): sell an api to agents for usdc
 - [**android-peer-sdk**](https://github.com/bolivian-peru/android-peer-sdk): share a phone's spare bandwidth, earn usdc
-- [**x402-sdk**](https://github.com/bolivian-peru/x402-sdk): micropayments on base and solana
+- [**x402-sdk**](https://github.com/bolivian-peru/x402-sdk): retired, use the official [x402](https://github.com/x402-foundation/x402)
 - [**baozi-mcp**](https://github.com/bolivian-peru/baozi-mcp): 68 tools for [baozi.bet](https://baozi.bet) prediction markets
 
 </details>
